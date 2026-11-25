@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Model_A",
+    "engine": "openai_compat",
+    "model": "gpt-4.1",
+    "base_url": "https://api.openai.com/v1/chat/completions",
+    "api_key_env": "OPENAI_API_KEY"
+  },
+  {
+    "label": "Model_B",
+    "engine": "openai_compat",
+    "model": "deepseek-chat",
+    "base_url": "https://api.deepseek.com/v1/chat/completions",
+    "api_key_env": "DEEPSEEK_API_KEY"
+  },
+  {
+    "label": "Codex_Baseline",
+    "engine": "codex",
+    "model": "o4-mini",
+    "reasoning_effort": "medium"
+  }
+]
