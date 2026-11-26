@@ -1,0 +1,9 @@
+{
+  "files": {
+    "ground_truth/answer.json": "c23cb79227cc46a2be11167c601672399e5db7103cb860f051534465e0fbee51",
+    "reference_files/benefits.xlsx": "0f0ee517a809620b435289603977ae177e349bf2e54a577d6460880b6730a170",
+    "review.csv": "936a087e4f3e31b5c71c3f31e52a370a0f7a579fd23b41643bc44f766d4449c8",
+    "rubric/criteria.json": "7b4b1ddeb5cca5f8b9dc2aae59e63e5be4811671a823a9ab20a33359dca89500",
+    "task/task.md": "b0f88eb217abe71f17626016d4536c0b3ce51d01d32169fbf4d6cf1b563ff908"
+  }
+}

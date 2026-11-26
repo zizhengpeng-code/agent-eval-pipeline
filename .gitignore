@@ -1,0 +1,14 @@
+# 本地密钥与实际模型配置
+.env
+models.json
+
+# 本地盲测运行产物与临时示例输出
+runs/
+demo_output/
+*.log
+
+# Python 与系统缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
